@@ -1,0 +1,43 @@
+Education and Experience
+========================
+
+.. figure:: _static/jlu.jpeg
+   :width: 300px
+   :align: center
+
+Academic education with degree
+------------------------------
+* *2019-today* **PhD theoretical chemistry**, Department of physical chemistry, Justus Liebig University, Giessen
+* *2017-2019* **M.Sc. Material Science**, Justus Liebig University, Giessen, Grade – very good.
+* *2014-2017* **B.Sc. Chemistry**, Justus Liebig University, Giessen, Grade – good.
+* *2011-2014* **Abitur**, Burggymnasium Friedberg, grade - good
+
+Experience
+----------
+* *During PhD-studies*:
+   * Preperation and presentation of university-courses in quantum-chemistry and theoretical material science
+   * Supervisor for multiple student assistants and student research projects for theses
+
+Academic education without degree
+---------------------------------
+* *2017-2018* Student assistant in the *FOREST* research group under Prof. Dr. Mollenhauer. Research Topic: Theoretical investigation of redox potentials on different molecules and substituent patterns
+* *08.2017* Participated in the *Summer-School in Cheminformatics* at the Martin-Luther University, Halle-Wittenberg
+* *2019* Absolved research module about *Theoretical investigation of the influence of metalclusters as center atoms in perovskites on structure and electronic structure* at the University of Auckland in Auckland, New Zealand in the group of Prof. Dr. Nicola Gaston
+* *2019-2022* took part in various lectors, workshops and seminars regarding theoretic chemistry, physics and material science as well as data science for research and bioinformatics.
+
+.. figure:: _static/Auckland.jpg
+   :width: 250px
+   :align: center
+
+.. figure:: _static/Waiheke.jpg
+   :width: 200px
+   :align: left
+
+.. figure:: _static/Hobbiton.jpg
+   :width: 300px
+   :align: right
+
+
+
+
+
