@@ -1,0 +1,35 @@
+Publications
+============
+
+Molecular Cluster Materials (FOR 2824 Research Group)
+-----------------------------------------------------
+
+.. figure:: _static/publications/FOR.png
+   :width: 300px
+   :align: center
+
+Katharina Hanau, **Sebastian Schwan**, Moritz R. Schäfer, Marius J. Müller, Christof Dues, Niklas Rinn, Simone Sanna, Sangam Chatterjee, Doreen Mollenhauer, Stefanie Dehnen, *Towards Understanding the Reactivity and Optical Properties of Organosilicon Sulfide Clusters*, Angewandte Chemie, **2020** (`10.1002/ange.202011370 <https://doi.org/10.1002/ange.202011370>`_)
+
+Kevin Eberheim, Christof Dues, Claudio Attaccalite, Marius J. Müller, **Sebastian Schwan**, Doreen Mollenhauer, Sangam Chatterjee, Simone Sanna, *Tetraphenyl Tetrel Molecules and Molecular Crystals: From Structural Properties to Nonlinear Optics*, The Journal of Physical Chemistry C, **2022** (`10.1021/acs.jpcc.1c10107 <https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c10107>`_)
+
+Jürgen Belz, Johannes Haust, Marius J. Müller, Kevin Eberheim, **Sebastian Schwan**, Saravanan Gowrisankar, Franziska Hüppe, Andreas Beyer, Peter R. Schreiner, Doreen Mollenhauer, Simone Sanna, Sangam Chatterjee, Kerstin Volz, *Adamantanes as white-light emitters: Controlling arrangement and functionality by external Coulomb forces*, The Journal of Physical Chemistry C, **2022** (`10.1021/acs.jpcc.2c02686 <https://pubs.acs.org/doi/full/10.1021/acs.jpcc.2c02686>`_)
+
+Marius J. Müller, Ferdinand Ziese, Jürgen Belz, Franziska Hüppe, Saravanan Gowrisankar, Bastian Bernhardt, **Sebastian Schwan**, Doreen Mollenhauer Peter R. Schreiner, Kerstin Volz, Simone Sanna, Sangam Chatterjee, *Octave-spanning 1 emission across the visible spectrum from single crystalline 1,3,5,7-tetrakis-(p-methoxyphenyl)adamantane*, **2022** (`arXiv:2204.06789 <https://doi.org/10.48550/arXiv.2204.06789>`_)
+
+
+**Submitted for publication:**
+
+Irán Rojas-León, Jan Christmann, **Sebastian Schwan**, Ferdinand Ziese, Simone Sanna, Doreen Mollenhauer, Nils W. Rosemann, Stefanie Dehnen
+
+**Sebastian Schwan**, Andreas J. Achazi, Peter R. Schreiner, Kerstin Volz, Stefanie
+Dehnen, Doreen Mollenhauer
+
+Redox-Flow batteries (FOREST Research Group)
+--------------------------------------------
+
+Jonas D. Hofmann, Sebastian Schmalisch, **Sebastian Schwan**, Longcheng Hong, Hermann A. Wegner, Doreen Mollenhauer, Jürgen Janek, and Daniel Schröder, *Tailoring Dihydroxyphthalazines to Enable Their Stable and Efficient Use in the Catholyte of Aqueous Redox Flow Batteries*, Chemistry of Materials, **2020** (`10.1021/acs.chemmater.9b05077 <https://doi.org/10.1021/acs.chemmater.9b05077>`_)
+
+**Sebastian Schwan**,  Daniel Schröder,  Herrmann A. Wegner, Jürgen Janek, Doreen Mollenhauer, *Substituent Pattern Effects on the Redox Potentials of Quinone‐Based Active Materials for Aqueous Redox Flow Batteries*, ChemSusChem, **2020** (`10.1002/cssc.202000454 <https://doi.org/10.1002/cssc.202000454>`_)
+
+
+

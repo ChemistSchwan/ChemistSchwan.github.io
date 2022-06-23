@@ -1,0 +1,44 @@
+.. Resume documentation master file, created by
+   sphinx-quickstart on Fri Mar 19 11:13:35 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to Sebastian Schwan's Resume
+====================================
+
+.. figure:: _static/Profil_2.jpg
+   :width: 350px
+   :align: center
+
+Dear Reader,
+
+My name is Sebastian Schwan (born 10 Dec 1994). I am a scientist, who is focused on theoretical modeling of materials using quantum chemical methods as well as screening- and machine learning applications.
+My main academic insterests are material science as well as certain parts of chemistry and physics. For this reason, I recieved my bachelors degree in chemistry, my maters
+degree in material science and will recieve my PhD in theoretical chemistry. My professional interests also include teaching and some fields of computer science, such as programming
+(mainly in python) and modern data science, especially machine learning and artificial intelligence with neural networks.
+
+.. note::
+   See my profiles:
+
+   `Research Gate <https://www.researchgate.net/profile/Sebastian-Schwan>`_
+
+   `LinkedIn <https://www.linkedin.com/in/sebastian-schwan-703026225/>`_
+
+   My CV can be downloaded :download:`here <_static/CV_Schwan.pdf>`.
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   Education
+   Skills
+   Publications
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
