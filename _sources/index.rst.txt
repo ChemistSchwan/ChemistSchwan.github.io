@@ -10,32 +10,29 @@ Welcome to Sebastian Schwan's Resume
    :width: 350px
    :align: center
 
-Dear Reader,
+About Me
+--------
 
-My name is Sebastian Schwan. I am a scientist, who is focused on theoretical modeling of materials using quantum chemical methods as well as screening- and machine learning applications.
-My main academic insterests are material science as well as certain parts of chemistry and physics. For this reason, I recieved my bachelors degree in chemistry, my maters
-degree in material science and will recieve my PhD in theoretical chemistry. My professional interests also include teaching and some fields of computer science, such as programming
-(mainly in python) and modern data science, especially machine learning and artificial intelligence with neural networks.
+I’m Dr. Sebastian Schwan, a chemist and materials scientist with a passion for innovation, precision, and meaningful impact. My professional focus lies at the intersection of science, technology, and process optimization — transforming complex challenges into efficient, sustainable solutions.
 
-.. note::
-   See my profiles:
+With a background in industrial research and development, I bring experience in laboratory management, data-driven process improvement, and interdisciplinary collaboration. I hold a Six Sigma Green Belt certification and enjoy combining analytical thinking with creativity to drive progress in technical environments.
 
-   `Research Gate <https://www.researchgate.net/profile/Sebastian-Schwan>`_
+Beyond my work, I’m inspired by nature, music, and problem-solving — whether refining a process, climbing a mountain, or designing an aquascape in one of my planted aquariums.
 
-   `LinkedIn <https://www.linkedin.com/in/sebastian-schwan-703026225/>`_
+Contact
+-------
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+Download my CV here:
 
-   Education
-   Skills
-   Publications
+:download:`here <_static/CV_Schwan.pdf>`.
+
+Contact me via Linkedin:
+
+`LinkedIn <https://www.linkedin.com/in/sebastian-schwan-703026225/>`_
+
+or EMail:
+
+`sschwan1994@gmail.com <mailto:sschwan1994@gmail.com>`_
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
